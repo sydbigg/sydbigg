@@ -4,7 +4,7 @@
 - :desktop_computer: I’m currently learning about the basics of technology, i.e. hardware, security, and progmramming. 
 - :telescope: I’m looking to work my way to a career in tech, specifically cybersecurty, more specifically an Ethical Hacker
 - :iphone: I am always looking to talk, collab, and/or learn from others. Feel free to hit me up on: [Instagram](https://www.instagram.com/syddbiggs/), [Twitter](https://twitter.com/Sydneykristine), or [Email me](sydbigg@gmail.com) 
-- :mega: PSA: I am **very** new to the tech world and am really just getting started (as in, creating this file is the most coding I have done since my Visual Basics intro course back in 2016 new). Any and all advice/suggestions/collabs/conversations are welcome and apprecaited!
+- :mega: PSA: I am **very** new to the tech world and am really just getting started (as in, creating this file is the most coding I have done since my Visual Basics intro course back in 2016). Any and all advice/suggestions/collabs/conversations are welcome and apprecaited!
 
 <!---
 sydbigg/sydbigg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
